@@ -1,2 +1,2 @@
-# news
+# News
 web3 news
